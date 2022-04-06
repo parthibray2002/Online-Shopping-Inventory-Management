@@ -20,12 +20,12 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
+3. Download project from github(https://github.com/parthibray2002/online-shopping-Inventory Management.git)  
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    ii>git clone https://github.com/parthibray2002/online-shopping-Inventory Management.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -47,15 +47,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
 
-### Google pay or phonepay number 9535688928
-
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
 
 ##  If you like my project hit a star button
 
@@ -86,7 +78,3 @@ https://github.com/PuneethReddyHC/event-management
 
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
